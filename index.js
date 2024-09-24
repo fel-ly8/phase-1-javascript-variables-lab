@@ -1,10 +1,12 @@
-const companyName = ("Scuber")
+let companyName = "Scuber"
+{
+  const companyName = "Scuber"
+}
+
+let mostProfitableNeighborhood = "chelsea"
 
 
-let mostProfitableNeighborhood = ("chelsea")
 
-
-
-let companyCeo = ("Susan Smith")
+let companyCeo = "Susan Smith"
 
 
